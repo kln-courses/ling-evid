@@ -3,7 +3,7 @@
 title: TEXT ANALYTICS - A SHORTCUT TO LINGUISTIC EVIDENCE
 place: KUA Søndre Campus, Danmark
 time: October 22-23, 9:00-16:00 (both days).
-instructors: Claus Povlsen (CST) & Kristoffer L. Nielbo (DIGHUMLAB)
+instructors: Claus Povlsen (CST|KU) & Kristoffer L. Nielbo (datakuben|SDU)
 contact: cpovlsen@hum.ku.dk, kln@cas.au.dk
 ```
 ## DESCRIPTION ##
