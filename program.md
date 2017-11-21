@@ -29,18 +29,18 @@ DAY 1: Thematic Analysis and Unsupervised Learning
 |  09:00-10:00  | `Text Analytics/ML`   | KLN         |
 |  10:00-11:00  | `Topic Modeling`      | KLN         |
 |  10:11-12:00  | `Preparation`         | KLN         |
-|  12:00-13:00  | `Lunch`               | KLN         |
+|  12:00-13:00  | `Lunch`               |             |
 |  13:00-14:00  | `Training`            | KLN         |
 |  14:00-15:00  | `Application`         | KLN         |
 |  15:00-16:00  | `Free Play`           | KLN         |  
 
 
-DAY 2: Text Classification and Supervised Learning  
+DAY 2: Document Classification and Supervised Learning  
 
 | Time          | Content               | Instructor  |
 | ------------- |:---------------------:| ----------- |
 |  09:00-10:00  | `Text Analytics/buffer` | KLN         |
-|  10:00-11:00  | `Text Classification` | KLN         |
+|  10:00-11:00  | `Document Classification` | KLN         |
 |  11:00-12:00  | `Representation`      | KLN         |
 |  12:00-13:00  | Lunch                 |             |
 |  13:00-14:00  | `Validation`          | KLN         |
